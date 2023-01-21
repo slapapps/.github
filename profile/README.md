@@ -10,4 +10,4 @@ are still working on stuff behind the scenes.
 
 SlapApps is a relatively new project, so we won't have some stuff to show here for some time.
 
-In the meantime, you can check out the [person who started the project!](https://samrpf.repl.co)
+In the meantime, you can check out the [person who started the project!](https://github.com/samrpf)
